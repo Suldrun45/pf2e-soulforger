@@ -1,2 +1,3 @@
 # pf2e-soulforger
-PF2e Soulforger
+
+Items and Macros for the Soulforger Dedication
